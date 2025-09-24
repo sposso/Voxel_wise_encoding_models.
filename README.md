@@ -43,7 +43,7 @@ itself; some variations arise from noise or random fluctuations. The explainable
 repeatable. 
 
 An encoding model, which predicts the brain response to a stimulus, produces identical predictions for repeated presentation of the same stimulus. Therefore,  the best such a model
-can do is to explain only the consistent, stimulu-related part of the variance. The noise ceiling represents the maximum possible accuracy for the model, constrained by measurement
+can do is to explain only the consistent stimulus-related part of the variance. The noise ceiling represents the maximum possible accuracy for the model, constrained by measurement
 noise and inherent variability.
 
 Mathematically, explainable variance is calculated as:
@@ -54,9 +54,9 @@ $$
 
 where: 
 
-\( \mathrm{Var}(\bar{y}) \): Variance of the average response across repeated trials of the same stimulus  
+$\mathrm{Var}(\bar{y})$: Variance of the average response across repeated trials of the same stimulus  
 
-\( \mathrm{Var}(y) \): Total variance across all trials
+$\mathrm{Var}(y)$: Total variance across all trials
 
 ---
 
