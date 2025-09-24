@@ -46,7 +46,7 @@ An encoding model, which predicts the brain response to a stimulus, produces ide
 can do is to explain only the consistent, stimulu-related part of the variance. The noise ceiling represents the maximum possible accuracy for the model, constrained by measurement
 noise and inherent variability.
 
-Mathematically, the explainable variance is calculated as:
+Mathematically, explainable variance is calculated as:
 
 $$
 \text{Explainable Variance} = \frac{\mathrm{Var}(\bar{y})}{\mathrm{Var}(y)}
@@ -54,9 +54,10 @@ $$
 
 where:
 
-- \(\mathrm{Var}(\bar{y})\) is the variance of the average response across repeated trials of the same stimulus
-- \(\mathrm{Var}(y)\) is the total variance across all trials
+- \(\mathrm{Var}(\bar{y})\): Variance of the average response across repeated trials of the same stimulus  
+- \(\mathrm{Var}(y)\): Total variance across all trials  
 
+---
 
 
 
