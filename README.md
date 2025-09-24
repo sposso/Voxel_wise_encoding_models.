@@ -51,9 +51,7 @@ Mathematically, the explainable variance is calculated as:
 $$
 \text{Explainable Variance} = \frac{\mathrm{Var}(\bar{y})}{\mathrm{Var}(y)}
 $$
-
 where:
-
 - \(\mathrm{Var}(\bar{y})\) is the variance of the average response across repeated trials of the same stimulus
 - \(\mathrm{Var}(y)\) is the total variance across all trials
 
