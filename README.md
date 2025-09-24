@@ -52,12 +52,11 @@ $$
 \text{Explainable Variance} = \frac{\mathrm{Var}(\bar{y})}{\mathrm{Var}(y)}
 $$
 
-where:
+where: 
 
+\( \mathrm{Var}(\bar{y}) \): Variance of the average response across repeated trials of the same stimulus  
 
-$ \mathrm{Var}(\bar{y}) $: Variance of the average response across repeated trials of the same stimulus  
-
-$ \mathrm{Var}(y) $: Total variance across all trials
+\( \mathrm{Var}(y) \): Total variance across all trials
 
 ---
 
