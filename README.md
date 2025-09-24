@@ -54,8 +54,10 @@ $$
 
 where:
 
-- \(\mathrm{Var}(\bar{y})\): Variance of the average response across repeated trials of the same stimulus  
-- \(\mathrm{Var}(y)\): Total variance across all trials  
+
+$ \mathrm{Var}(\bar{y}) $: Variance of the average response across repeated trials of the same stimulus  
+
+$ \mathrm{Var}(y) $: Total variance across all trials
 
 ---
 
